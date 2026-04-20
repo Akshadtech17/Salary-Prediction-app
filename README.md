@@ -9,6 +9,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-E74C3C?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-00FFB0?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-00C8FF?style=for-the-badge)
 
@@ -22,7 +23,7 @@
 
 <br/>
 
-**[🚀 Live Demo](#)** &nbsp;•&nbsp; **[📄 Documentation](#)** &nbsp;•&nbsp; **[🐛 Report Bug](#)** &nbsp;•&nbsp; **[💡 Request Feature](#)**
+**[🚀 Live Demo](https://salary-pred-app.streamlit.app)** &nbsp;•&nbsp; **[📄 Documentation](#)** &nbsp;•&nbsp; **[🐛 Report Bug](#)** &nbsp;•&nbsp; **[💡 Request Feature](#)**
 
 </div>
 
@@ -50,6 +51,8 @@
 
 This project demonstrates real-world ML engineering: preprocessing pipelines, model comparison, hyperparameter tuning, explainability via SHAP, and production-grade API deployment.
 
+🌐 **Try it live:** [https://salary-pred-app.streamlit.app](https://salary-pred-app.streamlit.app)
+
 ---
 
 ## ✨ Key Features
@@ -62,6 +65,7 @@ This project demonstrates real-world ML engineering: preprocessing pipelines, mo
 | ⚡ **REST API** | FastAPI/Flask with Swagger docs, validation & Docker support |
 | 🧪 **Model Comparison** | Benchmarks 4+ algorithms; XGBoost wins with 93.2% R² |
 | 🐳 **Docker Ready** | One-command containerized deployment |
+| 🌐 **Live App** | Deployed on Streamlit Cloud — no setup needed |
 
 ---
 
@@ -76,6 +80,7 @@ This project demonstrates real-world ML engineering: preprocessing pipelines, mo
 ![XGBoost](https://img.shields.io/badge/XGBoost-E74C3C?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
